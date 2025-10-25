@@ -6,7 +6,7 @@ Welcome to my data portfolio! This is my journey on how I have been honing my sk
 ##📝 Table of Contents
 
 - [Data Engineering] (links)
-- [SQL](links)
+- [SQL](https://github.com/ortigasjohnrey/Understanding_SQL)
 - [Python](links)
 - [Tableau](links)
 - [John Rey Guides]
