@@ -9,6 +9,9 @@ Welcome to my data portfolio! This is my journey on how I have been honing my sk
 - [SQL](https://github.com/ortigasjohnrey/Understanding_SQL)
 - [Python](links)
 - [Tableau](links)
+- [Data Analysis](links)
+- [Java](links)
+- [WebDev](links)
 - [John Rey Guides]
 
 ## Data Engineering Project
