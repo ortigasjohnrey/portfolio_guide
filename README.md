@@ -7,11 +7,11 @@ Welcome to my data portfolio! This is my journey on how I have been honing my sk
 
 - [Data Engineering] (links)
 - [SQL](https://github.com/ortigasjohnrey/Understanding_SQL)
-- [Python](links)
-- [Tableau](links)
-- [Data Analysis](links)
-- [Java](links)
-- [WebDev](links)
+- [Python](https://github.com/ortigasjohnrey/Python-Tutorials)
+- [Tableau](https://github.com/ortigasjohnrey/Tableau-Roadmap)
+- [Data Analysis](https://github.com/ortigasjohnrey/DATA_ANALYSIS)
+- [Java](https://github.com/ortigasjohnrey/JavaProjects)
+- [WebDev](https://github.com/ortigasjohnrey/Website-Development-Roadmap)
 - [John Rey Guides]
 
 ## Data Engineering Project
